@@ -7,7 +7,7 @@
 <p align="center">📫 How to reach me: <strong>amine_el_amrani@outlook.com</strong></p>
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=amine-el-amrani&show_icons=true&theme=merko"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amine-el-amrani&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
 </p>
 <p align='center'> Connect with me:
 <a href="https://linkedin.com/in/amine-el-amrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine-el-amrani" height="30" width="40" /></a>
@@ -20,10 +20,10 @@
 
 <div align='center'>
   <h2 align='center'>- S T A T S -</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine-el-amrani&theme=merko"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine-el-amrani&theme=jolly"/>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=amine-el-amrani&label=Profile%20views&color=0e75b6&style=flat" alt="amine-el-amrani" /> </p>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amine-el-amrani&theme=merko" alt="amine-el-amrani" /></a> </p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amine-el-amrani&" alt="amine-el-amrani" /></p>
+ <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amine-el-amrani&theme=merko" alt="amine-el-amrani" /></a> </p> -->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amine-el-amrani&theme=jolly" alt="amine-el-amrani" /></p>
 </div>
 
 
