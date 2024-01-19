@@ -7,7 +7,7 @@
 <p align="center">📫 How to reach me: <strong>amine_el_amrani@outlook.com</strong></p>
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=amine-el-amrani&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=amine-el-amrani&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for El Amrani Amine" width="700">
 </p>
 <p align='center'> Connect with me:
 <a href="https://linkedin.com/in/amine-el-amrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine-el-amrani" height="30" width="40" /></a>
