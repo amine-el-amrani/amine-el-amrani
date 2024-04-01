@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm EL AMRANI AMINE</h1>
 </div>
-<p align="center">A passionate Fullstack web developer</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&text=FullStackDeveloper"></p>
 <p align="center">👨‍💻 All of my projects are available at <a href="https://github.com/amine-el-amrani">https://github.com/amine-el-amrani</a></p>
 
 <p align="center">📫 How to reach me: <strong>amine_el_amrani@outlook.com</strong></p>
